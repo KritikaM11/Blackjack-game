@@ -1,0 +1,36 @@
+*{
+    font-family: "Open Sans", sans-serif;
+    /* height: 100%;
+    width: 100%; */
+}
+
+body{
+    background-image: url("./table.png");
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    background-size: cover;
+}
+h1{
+    color: goldenrod;
+    font-size: 5rem;
+}
+#message-el{
+    font-style: italic;
+}
+p{
+    color: white;
+    font-size: 2rem;
+    text-align: center;
+}
+button{
+    color: #016f32;
+    width: 15rem;
+    background-color: goldenrod;
+    height: 3rem;
+    font-weight: bold;
+    font-size: 1.5rem;
+    border: none;
+    border-radius: 6px;
+    margin: 2px;
+}
